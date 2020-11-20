@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "alJ6E2mEi5I6Taz5bB+zYccN/PtK+8BlZWm6V7Yvd9THd5xuk/rMOysb9nYe2OYbXjrLVZ41Jzn+Fo8ane14Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isabe\\source\\repos\\RederijOef\\RederijOef\\RederijOef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\isabe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
